@@ -18,7 +18,8 @@ Click here to run the app.
 
 ### What you'll see
 
-<img src="https://imgs.scripting.com/2024/08/09/whoIsBull.png" style="border: 1px solid silver">
+![image](https://github.com/user-attachments/assets/fbcea782-228a-48c1-a603-11981ba6cf5f)
+
 
 ### User note
 
