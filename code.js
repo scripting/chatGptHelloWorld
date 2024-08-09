@@ -42,12 +42,20 @@ function startup () {
 	console.log ("startup");
 	console.log ("startup: apiKey == " + apiKey);
 	console.log ("startup: apiUrl == " + apiUrl);
-	chatRequest ("Who is Bull Mancuso?", function (err, theResponse) {
-		if (err) {
-			alertDialog (err.message);
-			}
-		else {
-			alertDialog (theResponse);
+	
+	var defaultPerson = "Bull Mancuso";
+	askDialog ("Who should we ask about:", defaultPerson, "", function (thePerson, flcancel) {
+		if (!flcancel) {
+			chatRequest ("Who is " + thePerson + "?", function (err, theResponse) {
+				if (err) {
+					alertDialog (err.message);
+					}
+				else {
+					alertDialog (theResponse);
+					}
+				});
 			}
 		});
+	
+	
 	}
