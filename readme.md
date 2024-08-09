@@ -6,7 +6,7 @@ Written by Dave Winer of Scripting News.
 
 ### Create a developer account
 
-I asked ChatGPT to <a href="https://chatgpt.com/share/3d14453c-8035-4ef9-ac47-5fda02f694bd">explain</a> how to get a developer account. 
+I asked ChatGPT to <a href="https://chatgpt.com/share/3d14453c-8035-4ef9-ac47-5fda02f694bd">explain</a> how to get a developer account and api key. 
 
 ### How to
 
