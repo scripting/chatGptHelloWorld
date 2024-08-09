@@ -24,3 +24,7 @@ You should see something <a href="https://imgs.scripting.com/2024/08/09/whoIsBul
 
 I've gotten a bunch of different answers, including it doesn't know <a href="https://www.google.com/search?q=site%3Ascripting.com+%22Bull+Mancuso%22">who</a> Bull Mancuso is. 
 
+### Podcast
+
+I recorded a <a href="http://scripting.com/2024/08/09/164417.html">4-minute podcast</a> about this little project. 
+
