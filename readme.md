@@ -10,11 +10,13 @@ I asked ChatGPT to <a href="https://chatgpt.com/share/3d14453c-8035-4ef9-ac47-5f
 
 ### How to
 
-First, create a localStorage value containing your api key:
+You can run the app from my server, <a href="http://scripting.com/code/chatgpthelloworld/index.html#">here</a>. 
 
-In the console enter: `localStorage.chatApiKey = "the text of your actual api key"`
+It will fail the first time, then open the console and enter this:
 
-Click here to run the app.
+`localStorage.chatApiKey = "the text of your actual api key"`
+
+Reload the page and this time it should work.
 
 ### What you'll see
 
