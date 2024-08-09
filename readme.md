@@ -26,5 +26,5 @@ I've gotten a bunch of different answers, including it doesn't know <a href="htt
 
 ### Podcast
 
-I recorded a <a href="http://scripting.com/2024/08/09/164417.html">4-minute podcast</a> about this little project. 
+I recorded a <a href="https://shownotes.scripting.com/scripting/2024/08/09/myFirstChatgptApp.html">4-minute podcast</a> about this little project. 
 
