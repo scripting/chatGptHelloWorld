@@ -2,11 +2,9 @@
 
 A browser-based JavaScript app that finds out who Bull Mancuso is. 
 
-### Create a developer account
+### How to
 
 I asked ChatGPT to <a href="https://chatgpt.com/share/3d14453c-8035-4ef9-ac47-5fda02f694bd">explain</a> how to get a developer account and api key. 
-
-### How to
 
 You can run the app from my server, <a href="http://scripting.com/code/chatgpthelloworld/index.html#">here</a>. 
 
